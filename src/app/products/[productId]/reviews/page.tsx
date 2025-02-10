@@ -1,7 +1,9 @@
+
+
 export default function page() {
   return (
     <div>
-      This is product page 
+      This is review page try to get this in your url
     </div>
   )
 }

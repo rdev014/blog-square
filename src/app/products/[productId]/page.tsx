@@ -5,7 +5,7 @@ export default async function page( {params}:{
     const productId = (await params).productId
   return (
     <div>
-      this is productss page {productId}
+      this is products ka page {productId}
      
     </div>
   )
